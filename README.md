@@ -17,7 +17,9 @@ The usual!
 
 # Part 1: Light Reading
 
-Read through the examples in this article about [data types and type conversion](https://www.datacamp.com/community/tutorials/python-data-type-conversion). Then, answer the following questions.
+Read through the examples in this article about [data types and type conversion](https://www.datacamp.com/community/tutorials/python-data-type-conversion).
+
+Then, answer the following questions in a file called `part1.txt`.
 
 1. **_Coercion_ is another term for which of the following concepts in Python?**
 
@@ -27,7 +29,7 @@ Read through the examples in this article about [data types and type conversion]
    * d) Implicit type conversion
    * e) Floor division
 
-1. **_Type casting_ is another term for which of the following concepts in Python?**
+1. **_Type Casting_ is another term for which of the following concepts in Python?**
 
    * a) Encapsulation
    * b) Inheritance
