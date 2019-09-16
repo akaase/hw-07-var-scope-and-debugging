@@ -57,7 +57,7 @@ Then, answer the following questions in a file called `part1.txt`.
 
 # Part 2: We're in a Good Place!
 
-Jason is a huge Jacksonville Jaguars fan. The team isn't doing great now, but he has faith: "All we need is a defense, and an offense, and then some rule changes!"
+Jason is a huge Jacksonville Jaguars fan. The team isn't doing great now, but he has faith: "All we need is a defense, and an offense, and finally some rule changes!"
 
 He wrote some code to predict the future for the Jaguars according to whether we have all three of those factors.
 
@@ -78,14 +78,13 @@ def set_offense():
 def set_defense():
     defense = True
 
-    def set_rule_changes():
-        rule_changes = True
-
-    if offense and defense:
-        set_rule_changes()
+def set_rule_changes():
+    rule_changes = True
 
 set_offense()
 set_defense()
+if offense and defense:
+    set_rule_changes()
 
 print('How are the Jags doing?\n')
 print('We have offense:', offense)
