@@ -1,12 +1,11 @@
-# Assignment: Python Debugging and Intermediate Variables
+# Assignment: Global Variables and Python Debugging
 
-In this homework, you're going to write code for a challenge problem and answer some reading comprehension questions.
+In this homework, you're going to answer some reading comprehension questions and write code for a challenge problem.
 
 You will practice these programming concepts we've covered in class:
 
 * Type conversion
-* Escape characters and string formatting
-* Debugging techniques
+* Debugging
 * Variable scope
 
 ## Deliverables and Submitting
@@ -88,10 +87,10 @@ def set_defense():
 set_offense()
 set_defense()
 
-print("How are the Jags doing?\n")
-print("We have offense:", offense)
-print("We have defense:", defense)
-print("We have some rule changes:", rule_changes)
+print('How are the Jags doing?\n')
+print('We have offense:', offense)
+print('We have defense:', defense)
+print('We have some rule changes:', rule_changes)
 
 if offense and defense and rule_changes:
     print("We're going to the Super Bowl!")
@@ -133,7 +132,7 @@ Your job is to fix the bugs in his code so that the expected output is produced.
 
 Do this in a file called `part2.py`.
 
-**Hint:** Include a bunch of `print` statements everywhere to print out the values of the variables at various times. For example, inside `set_offense()`, put a `print` statement like `print("offense is", offense)`.
+**Hint:** Include a bunch of `print` statements everywhere to print out the values of the variables at various times. For example, inside `set_offense()`, put a `print` statement like `print('offense is', offense)`.
 
 ---
 
