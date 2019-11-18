@@ -99,16 +99,16 @@ Go through the **Introduction to Debugging** chapter of the **Foundations of Pyt
 
 The chapter has a total of 8 pages, each of them containing a few interactive problems.
 
-Start from [Page 1]((https://runestone.academy/runestone/books/published/fopp/Debugging/intro-DebuggingGeneral.html)) and use the arrows on the bottom to go to the next page, until you finish all 8 pages.
+Start from [Page 1](https://runestone.academy/runestone/books/published/fopp/Debugging/intro-DebuggingGeneral.html) and use the arrows on the bottom to go to the next page, until you finish all 8 pages.
 
 Focus in particular on Chapter 3.8: Know Your Error Messages!
 
-Nothing to submit for this exercise -- just go through the problems, answer them, check your work, and learn from the problems! 
+Nothing to submit for this exercise -- just go through the problems, answer them, check your answer, and learn from the problems! 
 
 ---
 
-# See Ya Later!
+# Debugging: It Could be a lot Worse!
 
-You're all done. Bye now!
+At least it's not **real** bugs...
 
-![](https://media.giphy.com/media/fWgQH01z4rjwrZckyM/giphy.gif)
+![](https://media.giphy.com/media/EvsgzxSJjRQWY/giphy.gif)
