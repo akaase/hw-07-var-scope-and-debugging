@@ -1,12 +1,11 @@
-# Assignment: Global Variables and Python Debugging
+# Assignment: Variable Scope and Debugging
 
 In this homework, you're going to answer some reading comprehension questions and write code for a challenge problem.
 
 You will practice these programming concepts we've covered in class:
 
-* Type conversion
+* Variable Scope
 * Debugging
-* Variable scope
 
 ## Deliverables and Submitting
 
@@ -14,56 +13,15 @@ The usual!
 
 ---
 
-# Part 1: Light Reading
+# Exercise 1: We're in a Good Place!
 
-Read through the examples in this article about [data types and type conversion](https://www.datacamp.com/community/tutorials/python-data-type-conversion).
-
-Then, answer the following questions in a file called `part1.txt`.
-
-1. **_Coercion_ is another term for which of the following concepts in Python?**
-
-   * a) Encapsulation
-   * b) Inheritance
-   * c) Explicit type conversion
-   * d) Implicit type conversion
-   * e) Floor division
-
-1. **_Type Casting_ is another term for which of the following concepts in Python?**
-
-   * a) Encapsulation
-   * b) Inheritance
-   * c) Explicit type conversion
-   * d) Implicit type conversion
-   * e) Floor division
-
-1. **What function in Python can we use to check a variable's type?**
-
-   * a) `type()`
-   * b) `typeof()`
-   * c) `typeof`, but it is an operator not a function
-   * d) `get_type()`
-
-1. **Which of the following is *not* a primitive data structure?**
-
-   * a) Float
-   * b) Integer
-   * c) List
-   * d) String
-   * e) Both a and c are not primitives
-
-1. **According to the article, what is the main reason to convert a tuple into a list?**
-
----
-
-# Part 2: We're in a Good Place!
-
-Jason is a huge Jacksonville Jaguars fan. The team isn't doing great now, but he has faith: "All we need is a defense, and an offense, and finally some rule changes!"
+Jason is a huge Jacksonville Jaguars fan. The team isn't doing great now, but he has faith: *"All we need is a defense, and an offense, and finally some rule changes!"*
 
 He wrote some code to predict the future for the Jaguars according to whether we have all three of those factors.
 
 ## Starter Code
 
-Unfortunately, Jason is just starting to learn how to program and there are some bugs in his code.
+Unfortunately, Jason is just starting to learn how to program and his code isn't very well written.
 
 Here's what Jason wrote:
 
@@ -125,13 +83,27 @@ I can't predict the future, but no, the Jaguars will never win the Super Bowl.
 
 ## Your Job
 
-Jason heard that you're nearly halfway through the **Python Programming** course at GA, so he's asked you for help in fixing his code.
+Jason heard that you're a third through the **Python Programming** course at GA, so he's asked you for help in fixing his code.
 
 Your job is to fix the bugs in his code so that the expected output is produced.
 
-Do this in a file called `part2.py`.
+Do this in a file called `exercise1.py`.
 
 **Hint:** Include a bunch of `print` statements everywhere to print out the values of the variables at various times. For example, inside `set_offense()`, put a `print` statement like `print('offense is', offense)`.
+
+---
+
+# Exercise 2: 
+
+Go through the **Introduction to Debugging** chapter of the **Foundations of Python Programming** ebook.
+
+The chapter has a total of 8 pages, each of them containing a few interactive problems.
+
+Start from [Page 1]((https://runestone.academy/runestone/books/published/fopp/Debugging/intro-DebuggingGeneral.html)) and use the arrows on the bottom to go to the next page, until you finish all 8 pages.
+
+Focus in particular on Chapter 3.8: Know Your Error Messages!
+
+Nothing to submit for this exercise -- just go through the problems, answer them, check your work, and learn from the problems! 
 
 ---
 
