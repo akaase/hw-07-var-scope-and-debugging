@@ -9,7 +9,7 @@ You will practice these programming concepts we've covered in class:
 
 ## Deliverables and Submitting
 
-The usual!
+You know what you're doing by now! **Fork**/**Clone**/**Commit**/**Push**/**Submit** :grin:
 
 ---
 
