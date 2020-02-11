@@ -89,7 +89,29 @@ Your job is to fix the bugs in his code so that the expected output is produced.
 
 Do this in a file called `exercise1.py`.
 
-**Hint:** Include a bunch of `print` statements everywhere to print out the values of the variables at various times. For example, inside `set_offense()`, put a `print` statement like `print('offense is', offense)`.
+### (Spoiler Alert)
+
+Open only one at a time if necessary!
+
+<details>
+<summary>Hint 1</summary>
+What scope do each of the variables in the program exist in?
+</details>
+
+<details>
+<summary>Hint 2</summary>
+Include a bunch of <code>print</code> statements everywhere to print out the values of the variables at various times. For example, inside <code>set_offense()</code>, put a <code>print</code> statement like <code>print('offense is', offense)</code>.
+</details>
+
+<details>
+<summary>Hint 3</summary>
+Go back to the class notes and read about the `global` keyword
+</details>
+
+<details>
+<summary>Hint 4</summary>
+That's all I got for ya!!!!
+</details>
 
 ---
 
@@ -100,6 +122,8 @@ Go through the **Introduction to Debugging** chapter of the **Foundations of Pyt
 The chapter has a total of 8 pages, each of them containing a few interactive problems.
 
 Start from [Page 1](https://runestone.academy/runestone/books/published/fopp/Debugging/intro-DebuggingGeneral.html) and use the arrows on the bottom to go to the next page, until you finish all 8 pages.
+
+Do all of the interactive debugging problems. 
 
 Focus in particular on Chapter 3.8: Know Your Error Messages!
 
